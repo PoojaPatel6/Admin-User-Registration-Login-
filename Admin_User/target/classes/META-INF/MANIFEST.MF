@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: adit
+Build-Jdk: 21.0.3
+Implementation-Title: Admin_User
+Implementation-Version: 1.0
+Implementation-Vendor-Id: in.ibm
+Implementation-URL: 
+Created-By: Maven Integration for Eclipse
+
